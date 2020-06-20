@@ -15,7 +15,7 @@ Collection - Map
 #Review
 565-576
 Generic
-577-580 585-
+577-580 585-599
 IO Stream
 #581-584
 #Review
